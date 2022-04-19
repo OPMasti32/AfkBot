@@ -1,0 +1,5 @@
+{
+	"ip":"ArpitMaster.aternos.me",
+	"port": "61169",
+	"name": "AFK"
+}
